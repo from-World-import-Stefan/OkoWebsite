@@ -1,0 +1,36 @@
+body {
+  background-color: white;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
+h1 {
+  color: LightGrey;
+  text-align: center;
+}
+p {
+  color: MediumAquaMarine;
+  text-align: left;
+}
+img {
+  width: 20px;
+  height: 20px;
+}
+button1 {
+  
+}
+footer {
+  background-color: DarkSlateGray;
+
+  marigin: 20px;
+  border: 15px;
+  padding: 20px;
+  height: 50px;
+  width: 100%;
+
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+
+}
